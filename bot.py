@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 import re
 
-TOKEN = '6957952153:AAFOU4bVNwpa1Zvl25pYpMT6LxnQsyF6b-o'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # Dictionary to store user input for each chat
